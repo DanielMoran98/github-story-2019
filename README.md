@@ -9,6 +9,7 @@
 
 ### Changes
 - 12/03:
-  - Forked repo and setup basic folder structure
+  - Forked repo and setup basic folder structure.
   - Created base.html as a template for future chapters.
-  - Added css to base.html for some styling
+  - Added CSS to base.html for some styling.
+  - Added dummy text and some page controls to base.html
