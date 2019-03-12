@@ -1,0 +1,23 @@
+body{
+}
+
+#container{
+  width: 900px;
+  margin: 100px auto;
+  padding:20px;
+  box-shadow: 5px 5px 20px 5px rgba(0,0,0, 0.2);
+  border-radius: 5px;
+}
+
+footer{
+  background-color: #EB6864 !important;
+  color: rgba(255,255,255,0.5);
+  width:100%;
+  position: fixed;
+  bottom:0px;
+  text-align: center;
+}
+
+footer p {
+  margin:20px;
+}

@@ -11,3 +11,4 @@
 - 12/03:
   - Forked repo and setup basic folder structure
   - Created base.html as a template for future chapters.
+  - Added css to base.html for some styling
