@@ -18,3 +18,6 @@
   - Created a TODO.txt with notes on tasks to be completed.
   - Created a .gitignore which excludes the TODO.txt from being pushed to the repository.
   - Created Chapter1.html using the base.html template.
+  - Updated Chapter1.html with first paragraph.
+  - Updated Chapter1.html with second paragraph.
+  - Updated Chapter1.html with third paragraph.
