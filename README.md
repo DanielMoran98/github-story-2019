@@ -22,3 +22,4 @@
   - Updated Chapter1.html with second paragraph.
   - Updated Chapter1.html with third paragraph.
   - Added index page with links to each chapter.
+  - Updated navbar with future chapter links
