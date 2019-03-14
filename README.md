@@ -3,9 +3,9 @@
 ## By Daniel Moran
 
 ### Chapters
-- Chapter 1
-- Chapter 2
-- Chapter 3
+- [Chapter 1](https://danielmoran98.github.io/github-story-2019/Chapter1.html)
+- [Chapter 2](https://danielmoran98.github.io/github-story-2019/Chapter2.html)
+- [Chapter 3](https://danielmoran98.github.io/github-story-2019/Chapter3.html)
 
 ### Changes
 - 12/03:
