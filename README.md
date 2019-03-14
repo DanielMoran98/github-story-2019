@@ -29,3 +29,4 @@
   - Updated README with links to chapter pages.
   - Tweaked index page.
   - Added Chapter2.html with base template.
+  - Added Chapter2 paragraph 1.
