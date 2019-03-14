@@ -30,3 +30,4 @@
   - Tweaked index page.
   - Added Chapter2.html with base template.
   - Added Chapter2 paragraph 1.
+  - Added Chapter2 paragraph 2.
