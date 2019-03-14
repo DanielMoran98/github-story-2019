@@ -22,5 +22,9 @@
   - Updated Chapter1.html with second paragraph.
   - Updated Chapter1.html with third paragraph.
   - Added index page with links to each chapter.
-  - Updated navbar with future chapter links
-  - Navbar now correctly points to index.html instead of base.html when viewing from inside index.html
+  - Updated navbar with future chapter links.
+  - Navbar now correctly points to index.html instead of base.html when viewing from inside index.html.
+
+- 14/03:
+  - Updated README with links to chapter pages.
+  - Tweaked index page.
