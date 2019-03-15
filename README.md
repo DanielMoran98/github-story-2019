@@ -32,3 +32,7 @@
   - Added Chapter2 paragraph 1.
   - Added Chapter2 paragraph 2.
   - Added Chapter2 paragraph 3.
+
+- 15/03:
+  - Added Chapter3.html using base template.
+  
