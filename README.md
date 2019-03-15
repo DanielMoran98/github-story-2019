@@ -37,3 +37,4 @@
   - Added Chapter3.html using base template.
   - Added Chapter3 part 1.
   - Added Chapter3 part 2.
+  - Added Chapter3 part 3.
