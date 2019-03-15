@@ -38,3 +38,4 @@
   - Added Chapter3 part 1.
   - Added Chapter3 part 2.
   - Added Chapter3 part 3.
+  - Resolved issue #2 relating to Chapter3.
