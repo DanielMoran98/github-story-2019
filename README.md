@@ -35,4 +35,4 @@
 
 - 15/03:
   - Added Chapter3.html using base template.
-  
+  - Added Chapter3 part 1
