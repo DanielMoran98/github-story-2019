@@ -39,3 +39,6 @@
   - Added Chapter3 part 2.
   - Added Chapter3 part 3.
   - Resolved issue #2 relating to Chapter3.
+
+- 19/03:
+  - Removed old ending in Chapter3.html and added new title.
