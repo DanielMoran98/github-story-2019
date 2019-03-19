@@ -43,3 +43,4 @@
 - 19/03:
   - Removed old ending in Chapter3.html and added new title.
   - Added Chapter3 (Alternative) part 3.
+  - Added Chapter3 (Alternative) part 4.
