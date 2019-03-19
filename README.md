@@ -1,8 +1,10 @@
 # github-story-2019
+This is an assignment for my Web framework development module which demonstrates the various applications and uses of git and GitHub.
 
 ## By Daniel Moran
 
 ### Chapters
+- [Index](https://danielmoran98.github.io/github-story-2019/index.html)
 - [Chapter 1](https://danielmoran98.github.io/github-story-2019/Chapter1.html)
 - [Chapter 2](https://danielmoran98.github.io/github-story-2019/Chapter2.html)
 - [Chapter 3](https://danielmoran98.github.io/github-story-2019/Chapter3.html)
@@ -39,3 +41,8 @@
   - Added Chapter3 part 2.
   - Added Chapter3 part 3.
   - Resolved issue #2 relating to Chapter3.
+
+- 19/03:
+  - Completed alternative ending on alternative_ending branch.
+  - Updated README
+  - Changed page title on index.html
